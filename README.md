@@ -13,4 +13,4 @@ The activities were implemented in Java.
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-We would like to thank the professor Mr. Leonardo Montecchi for the knowledge taught in Object Oriented Programming Course at [UNICAMP](https://www.unicamp.br/unicamp/).
+I would like to thank the professor Mr. Leonardo Montecchi for the knowledge taught in Object Oriented Programming Course at [UNICAMP](https://www.unicamp.br/unicamp/).
