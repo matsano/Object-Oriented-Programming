@@ -1,5 +1,5 @@
 # Object-Oriented-Programming
-Object Oriented Programming Course (MC322)
+Object Oriented Programming Course
 
 ## 📋 Description
 Set of activities implemented during the course: all the laboratories, the code implemented during the course exam and the final project. The final project consists of implementing the functionality of the Legends of Runeterra game respecting the object-oriented programming paradigm.
